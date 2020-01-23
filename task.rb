@@ -5,6 +5,9 @@ def q1
   names = ["田中", "佐藤", "佐々木", "高橋"]
 
   # 以下に回答を記載
+  names << "斎藤"
+
+  p names
 
 end
 
@@ -57,7 +60,7 @@ def q8
 
   # 以下に回答を記載
 
-  
+
   p programming_languages
   p upper_case_programming_languages
 end
